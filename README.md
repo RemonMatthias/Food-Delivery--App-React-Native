@@ -9,7 +9,7 @@
 
   <p align="center">
 A React Native App UI   <br />
-    <a href="https://github.com/RemonMatthias/Next-Static-Website"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RemonMatthias/Food-Delivery--App-React-Native"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://expo.io/@remon-matthias/Food-Delivery-App-UI">View Demo</a>
