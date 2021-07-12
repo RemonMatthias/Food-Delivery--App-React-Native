@@ -37,7 +37,7 @@ A React Native App UI   <br />
 ## About The Project
 
 <p style="display:flex; flex-direction:row;">
-    <img src="assets/images/Screenshot 1.png"  width="400px"/><img src="assets/images/Screenshot 2.png" width="400px"/>
+    <img src="assets/images/Screenshot 1.png"  width="400" height="1000"/><img src="assets/images/Screenshot 2.png" width="400px" height="1000"/>
 </p>
 
 This App UI is a result of a pixel perfect execution of a design made using figma . It shows the precision and attention to details while developing the UI using React-Native.
