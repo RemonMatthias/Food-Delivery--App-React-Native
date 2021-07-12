@@ -12,7 +12,7 @@ A React Native App UI   <br />
     <a href="https://github.com/RemonMatthias/Next-Static-Website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://next-static-website-d7a1d.web.app/">View Demo</a>
+    <a href="https://expo.io/@remon-matthias/Food-Delivery-App-UI">View Demo</a>
 
   </p>
 </p>
@@ -27,6 +27,7 @@ A React Native App UI   <br />
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#running-demo">Running The Demo</a></li>
     <li><a href="#author">Author</a></li>
   </ol>
 </details>
@@ -35,11 +36,13 @@ A React Native App UI   <br />
 
 ## About The Project
 
-<p style="display:flex; flex-direction:row">
+<p style="display:flex; flex-direction:row;">
     <img src="assets/images/Screenshot 1.png"  /><img src="assets/images/Screenshot 2.png" />
 </p>
 
 This App UI is a result of a pixel perfect execution of a design made using figma . It shows the precision and attention to details while developing the UI using React-Native.
+
+- [Link To Figma Design](https://www.figma.com/file/gfIboy4J44lvD9CoDr62rH/Food-App?node-id=0%3A1)
 
 ### Built With
 
@@ -49,6 +52,12 @@ Next has been built using modern technologies such as :
 - [React-Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [React-Navigation](https://reactnavigation.org/)
+
+### Running The Demo
+
+Kindly head to the link provided below and then download the Expo App from the Goodle play store, then use the app to scan the QR code in order to run the demo on your phone.
+
+- [Expo-App](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US)
 
 ## Author
 
